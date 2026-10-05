@@ -1,0 +1,38 @@
+# Python environment & cache
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environment wheels
+*.whl
+
+# PyTorch / Hugging Face model weights & checkpoints (DO NOT COMMIT)
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.gguf
+checkpoints/
+output/
+wandb/
+
+# Datasets (Large arrays and video files)
+*.mp4
+*.avi
+*.mov
+*.npy
+*.npz
+component-2-nlp-engine/data/ssl400/*
+component-2-nlp-engine/data/continuous_ssl/*
+!component-2-nlp-engine/data/ssl400/.gitkeep
+!component-2-nlp-engine/data/continuous_ssl/.gitkeep
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+*.log
