@@ -1,0 +1,51 @@
+ID,Domain,Continuous SSL Gesture Sequence,Sinhala Target Translation,English Target Translation
+1,Greetings & Social,[HELLO] [YOU] [NAME] [WHAT],ඔයාගේ නම මොකක්ද?,What is your name?
+2,Greetings & Social,[I] [MEET] [HAPPY],ඔබව හමුවීම සතුටක්.,Nice to meet you.
+3,Greetings & Social,[YOU] [HEALTH] [GOOD] [?],ඔයාට සුවෙන්ද?,How are you?
+4,Greetings & Social,[I] [FINE] [THANK-YOU],"මට සුවයි, ස්තූතියි.","I am fine, thank you."
+5,Greetings & Social,[TOMORROW] [WE] [MEET] [CAN],අපිට හෙට හමුවෙන්න පුළුවන්.,We can meet tomorrow.
+6,Greetings & Social,[TODAY] [WEATHER] [VERY] [HOT],අද කාලගුණය ගොඩක් රස්නෙයි.,The weather is very hot today.
+7,Greetings & Social,[YOU] [WHERE] [LIVE],ඔයා ජීවත් වෙන්නේ කොහේද?,Where do you live?
+8,Greetings & Social,[I] [HOME] [NOW] [GO],මම දැන් ගෙදර යනවා.,I am going home now.
+9,Healthcare & Medical,[I] [HEAD] [PAIN] [FEEL],මගේ ඔලුව රිදෙනවා.,I have a headache.
+10,Healthcare & Medical,[DOCTOR] [MEET] [TIME] [WHEN],දොස්තර හමුවෙන්න පුළුවන් වෙලාව කීයද?,When can I meet the doctor?
+11,Healthcare & Medical,[THIS] [MEDICINE] [HOW] [DRINK],මේ බෙහෙත බොන්නේ කොහොමද?,How should I take this medicine?
+12,Healthcare & Medical,[STOMACH] [PAIN] [TWO-DAYS] [NOW],දවස් දෙකක ඉඳන් මගේ බඩ රිදෙනවා.,My stomach has been hurting for two days.
+13,Healthcare & Medical,[FEVER] [VERY] [HIGH] [HELP],"උණ ගොඩක් වැඩියි, උදව් කරන්න.","The fever is very high, please help."
+14,Healthcare & Medical,[I] [BLOOD] [TEST] [NEED],මට රුධිර පරීක්ෂාවක් කරගන්න ඕනේ.,I need to get a blood test done.
+15,Healthcare & Medical,[HOSPITAL] [WHERE] [LOCATION],රෝහල තියෙන්නේ කොහේද?,Where is the hospital located?
+16,Healthcare & Medical,[YOU] [ALLERGY] [HAVE] [?],ඔබට කිසියම් ආසාත්මිකතාවයක් තියෙනවද?,Do you have any allergies?
+17,Healthcare & Medical,[WATER] [WARM] [DRINK] [ADVISE],උණුසුම් වතුර බොන්න කියලා උපදෙස් දුන්නා.,I was advised to drink warm water.
+18,Healthcare & Medical,[NOW] [PAIN] [LESS] [FEEL],දැන් වේදනාව අඩුයි.,The pain is less now.
+19,Education & Campus,[TODAY] [CLASS] [TIME] [START],අද පන්තිය පටන් ගන්නේ කීයටද?,What time does class start today?
+20,Education & Campus,[TEACHER] [SAY] [I] [NOT-UNDERSTAND],ගුරුවරයා කියපු දේ මට තේරුණේ නෑ.,I did not understand what the teacher said.
+21,Education & Campus,[PLEASE] [SLOW] [SIGN] [AGAIN],කරුණාකරලා ආයෙත් හිමින් සංඥා කරන්න.,Please sign slowly again.
+22,Education & Campus,[EXAM] [NEXT-WEEK] [START],ලබන සතියේ විභාගය පටන් ගන්නවා.,The exam starts next week.
+23,Education & Campus,[BOOK] [I] [LIBRARY] [RETURN] [NEED],මට මේ පොත පුස්තකාලයට භාර දෙන්න ඕනේ.,I need to return this book to the library.
+24,Education & Campus,[ASSIGNMENT] [SUBMIT] [DATE] [WHEN],පැවරුම භාර දිය යුතු දිනය කවදාද?,When is the assignment submission deadline?
+25,Education & Campus,[COMPUTER] [LAB] [OPEN] [?],පරිගණක විද්‍යාගාරය ඇරලද තියෙන්නේ?,Is the computer lab open?
+26,Education & Campus,[PROJECT] [WE] [TOGETHER] [DO],අපි ව්‍යාපෘතිය එකතු වෙලා කරමු.,Let us work on the project together.
+27,Travel & Transport,[BUS] [COLOMBO] [WHEN] [ARRIVE],කොළඹ යන බස් එක එන්නේ කීයටද?,What time does the bus to Colombo arrive?
+28,Travel & Transport,[TRAIN] [STATION] [WHICH] [WAY],දුම්රිය ස්ථානයට යන්නේ කොහොමද?,Which way is the train station?
+29,Travel & Transport,[TICKET] [PRICE] [HOW-MUCH],ප්‍රවේශපත්‍රයක මිල කීයද?,How much is a ticket?
+30,Travel & Transport,[I] [WRONG] [BUS] [ENTER],මම වැරදි බස් එකකට නැග්ගා.,I got on the wrong bus.
+31,Travel & Transport,[THIS] [BUS] [KANDY] [GO] [?],මේ බස් එක මහනුවරට යනවද?,Does this bus go to Kandy?
+32,Travel & Transport,[NEXT] [STOP] [I] [GET-DOWN],මම ඊළඟ නැවතුමෙන් බහිනවා.,I will get down at the next stop.
+33,Travel & Transport,[ROAD] [CROSS] [DANGER] [CAREFUL],"පාර පනින එක අනතුරුදායකයි, ප්‍රවේශම් වන්න.","Crossing the road is dangerous, be careful."
+34,Travel & Transport,[MAP] [SHOW] [ME] [CAN],මට සිතියම පෙන්වන්න පුළුවන්ද?,Can you show me the map?
+35,Food & Dining,[I] [HUNGRY] [FOOD] [WANT],"මට බඩගිනියි, කෑම කන්න ඕනේ.","I am hungry, I want to eat."
+36,Food & Dining,[WATER] [ONE] [BOTTLE] [GIVE],කරුණාකර මට වතුර බෝතලයක් දෙන්න.,Please give me a bottle of water.
+37,Food & Dining,[VEGETABLE] [FRESH] [TODAY] [HAVE],අද නැවුම් එළවළු තියෙනවා.,There are fresh vegetables today.
+38,Food & Dining,[TEA] [SUGAR] [NO] [WANT],මට සීනි නැති තේ එකක් ඕනේ.,I want tea without sugar.
+39,Food & Dining,[RICE] [FISH] [CURRY] [LIKE],මම බත් සහ මාළු වෑංජන කන්න කැමතියි.,I like eating rice and fish curry.
+40,Food & Dining,[BILL] [GIVE] [PLEASE],කරුණාකර බිල දෙන්න.,Please bring the bill.
+41,Food & Dining,[MONEY] [PAY] [CARD] [CAN],මට කාඩ්පතෙන් ගෙවන්න පුළුවන්ද?,Can I pay by card?
+42,Food & Dining,[FRUIT] [KILO] [PRICE] [HOW-MUCH],පලතුරු කිලෝවක මිල කීයද?,How much is a kilo of fruit?
+43,Public Service & Help,[HELP] [ME] [QUICK],ඉක්මනින් මට උදව් කරන්න.,Please help me quickly.
+44,Public Service & Help,[POLICE] [CALL] [NEED],මට පොලීසියට කතා කරන්න අවශ්‍යයි.,I need to call the police.
+45,Public Service & Help,[MY] [WALLET] [LOST],මගේ මුදල් පසුම්බිය නැතිවුණා.,I lost my wallet.
+46,Public Service & Help,[BANK] [MONEY] [DEPOSIT] [WANT],මට බැංකුවේ මුදල් තැන්පත් කරන්න ඕනේ.,I want to deposit money in the bank.
+47,Public Service & Help,[FORM] [FILL] [I] [NOT-KNOW],මේ පෝරමය පුරවන්නේ කොහොමද කියලා මම දන්නේ නෑ.,I do not know how to fill out this form.
+48,Public Service & Help,[INTERPRETER] [CALL] [CAN] [?],සංඥා භාෂා පරිවර්තකයෙකු ගෙන්වන්න පුළුවන්ද?,Can you call a sign language interpreter?
+49,Public Service & Help,[OFFICE] [OFFICER] [WHERE] [SIT],කාර්යාල නිලධාරියා ඉන්නේ කොහේද?,Where is the office executive seated?
+50,Public Service & Help,[PROBLEM] [SOLVED] [THANK-YOU],"ප්‍රශ්නය විසඳුනා, බොහොම ස්තූතියි.","The issue is resolved, thank you very much."

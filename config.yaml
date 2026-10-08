@@ -1,0 +1,10 @@
+# Central settings for Component 2. Code reads values from here instead of hard-coding them.
+
+seed: 42  # fixed so experiments are reproducible
+
+paths:
+  sentences_csv: data/sentences.csv
+  videos_dir: data/videos
+  keypoints_dir: data/keypoints
+  runs_dir: outputs/runs
+  figures_dir: outputs/figures

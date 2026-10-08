@@ -1,0 +1,20 @@
+# torch is NOT listed here: it is installed separately with CUDA support
+# (e.g. torch 2.5.1+cu121) so pip does not replace it with a CPU-only build.
+
+# Pinned: 0.10.21 is verified to still provide mp.solutions.holistic.
+mediapipe==0.10.21
+opencv-python
+numpy
+pandas
+pyyaml
+transformers
+peft
+accelerate
+sentencepiece
+sacrebleu
+scikit-learn
+fastapi
+uvicorn
+python-multipart
+pytest
+tqdm
