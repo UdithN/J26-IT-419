@@ -1,4 +1,4 @@
-# J26-IT-419 — Senehasa-Link, Component 2
+﻿# J26-IT-419 — Senehasa-Link, Component 2
 
 Gloss-free sign language NLP engine: Sri Lankan Sign Language (SSL) video → Sinhala and English sentences.
 
@@ -21,7 +21,10 @@ requirements.txt     # Python packages (torch installed separately)
 
 ## Setup (Windows 11, Python 3.11)
 
-1. Install torch with CUDA separately (this project uses `torch 2.5.1+cu121`).
+1. Install torch with CUDA separately (this project uses `torch 2.6.0+cu124`; transformers 5.x needs torch >= 2.6 to load NLLB):
+   ```powershell
+   python -m pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+   ```
 2. Install the other packages:
    ```powershell
    python -m pip install -r requirements.txt

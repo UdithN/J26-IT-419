@@ -1,0 +1,11 @@
+{
+  "baseline": "retrieval",
+  "seed": 42,
+  "folds_run": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

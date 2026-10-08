@@ -1,0 +1,21 @@
+fold,sentence_id,domain,gloss,language,reference,prediction
+0,1,Greetings & Social,[HELLO] [YOU] [NAME] [WHAT],sinhala,ඔයාගේ නම මොකක්ද?,"හෙලෝ, ඔබේ නම මොකක්ද?"
+0,3,Greetings & Social,[YOU] [HEALTH] [GOOD] [?],sinhala,ඔයාට සුවෙන්ද?,ඔබට සෞඛ් ය සම්පන්නද?
+0,9,Healthcare & Medical,[I] [HEAD] [PAIN] [FEEL],sinhala,මගේ ඔලුව රිදෙනවා.,මට හිස රිදෙනවා.
+0,10,Healthcare & Medical,[DOCTOR] [MEET] [TIME] [WHEN],sinhala,දොස්තර හමුවෙන්න පුළුවන් වෙලාව කීයද?,වෛද් යවරයා හමුවන්නේ කීයටද?
+0,21,Education & Campus,[PLEASE] [SLOW] [SIGN] [AGAIN],sinhala,කරුණාකරලා ආයෙත් හිමින් සංඥා කරන්න.,කරුණාකර නැවත අත්සන් කිරීම මන්දගාමී කරන්න.
+0,25,Education & Campus,[COMPUTER] [LAB] [OPEN] [?],sinhala,පරිගණක විද්‍යාගාරය ඇරලද තියෙන්නේ?,පරිගණක විද්යාගාරය අරින්නද?
+0,29,Travel & Transport,[TICKET] [PRICE] [HOW-MUCH],sinhala,ප්‍රවේශපත්‍රයක මිල කීයද?,ටිකට් එක මිල කීයද?
+0,35,Food & Dining,[I] [HUNGRY] [FOOD] [WANT],sinhala,"මට බඩගිනියි, කෑම කන්න ඕනේ.",මට බඩගින්නේ කන්න ඕනේ.
+0,40,Food & Dining,[BILL] [GIVE] [PLEASE],sinhala,කරුණාකර බිල දෙන්න.,කරුණාකර මට බිල්පත දෙන්න.
+0,43,Public Service & Help,[HELP] [ME] [QUICK],sinhala,ඉක්මනින් මට උදව් කරන්න.,මට ඉක්මනින් උදව් කරන්න.
+0,1,Greetings & Social,[HELLO] [YOU] [NAME] [WHAT],english,What is your name?,What is your name? Hello?
+0,3,Greetings & Social,[YOU] [HEALTH] [GOOD] [?],english,How are you?,Are you healthy?
+0,9,Healthcare & Medical,[I] [HEAD] [PAIN] [FEEL],english,I have a headache.,I am feeling a headache.
+0,10,Healthcare & Medical,[DOCTOR] [MEET] [TIME] [WHEN],english,When can I meet the doctor?,When is the doctor meeting?
+0,21,Education & Campus,[PLEASE] [SLOW] [SIGN] [AGAIN],english,Please sign slowly again.,Please sign slowly again.
+0,25,Education & Campus,[COMPUTER] [LAB] [OPEN] [?],english,Is the computer lab open?,Is the computer lab open?
+0,29,Travel & Transport,[TICKET] [PRICE] [HOW-MUCH],english,How much is a ticket?,How much is the ticket?
+0,35,Food & Dining,[I] [HUNGRY] [FOOD] [WANT],english,"I am hungry, I want to eat.",I want to eat hungry food.
+0,40,Food & Dining,[BILL] [GIVE] [PLEASE],english,Please bring the bill.,Please give me the bill.
+0,43,Public Service & Help,[HELP] [ME] [QUICK],english,Please help me quickly.,Please help me quick.
